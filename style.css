@@ -1,5 +1,20 @@
-body {
-  margin: 20% auto;
-  width: 50%;
-  height: 75%;
+* {
+  color: white;
 }
+
+body {
+  background-image: url(https://wallpaperaccess.com/full/343289.jpg);
+  margin: 5% auto;
+   width: 50%;
+}
+
+input {
+  color: black;
+  border: solid 5px white;
+}
+
+button {
+  border: outset 3px grey;
+  background-color: black;
+}
+
